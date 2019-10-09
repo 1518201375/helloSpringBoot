@@ -9,5 +9,6 @@ public class SpringBootHelloWorldNetworkApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootHelloWorldNetworkApplication.class, args);
 	}
+	public void test1(){}
 
 }
